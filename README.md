@@ -1,4 +1,5 @@
-Build Status npm
+![Build Status](https://github.com/ajaxorg/ace/workflows/CI/badge.svg)](https://github.com/ajaxorg/ace/actions) 
+[![npm](https://img.shields.io/npm/v/ace-builds.svg)](https://www.npmjs.com/package/ace-builds)
 # chatbot-with-ajax
 
 Asynchronous JavaScript and XML are techniques used to create dynamic websites. This means that the website is able to update and display new data from the server without the need to reload.

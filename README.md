@@ -1,4 +1,4 @@
-![Build Status](https://github.com/ajaxorg/ace/workflows/CI/badge.svg)]
+![Build Status](https://github.com/ajaxorg/ace/workflows/CI/badge.svg)
 [![npm](https://img.shields.io/npm/v/ace-builds.svg)](https://www.npmjs.com/package/ace-builds)
 # chatbot-with-ajax
 
